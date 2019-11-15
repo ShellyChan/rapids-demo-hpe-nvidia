@@ -1,6 +1,6 @@
-# RAPIDS Notebooks HPE & NVIDIA DEEP LEARNING WORKSHOP (Industrial Quality Inspection)
+## RAPIDS Notebooks HPE & NVIDIA DEEP LEARNING WORKSHOP (Industrial Quality Inspection)
 
-## List of Notebooks:
+#### List of Notebooks:
 
 | Folder    | Notebook Title         | Description                                                                                                                                                                                                                   | GPU  | Dataset Used
 |-----------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|----|
